@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
-import { WeatherProvider } from '../../providers/weather/weather';
+import { WeatherProvider } from '../../providers/weather/weather'; // added
 // WeatherProvider from weather.ts. / = folders
 import { Storage } from '@ionic/storage'; // added this from app.module.ts
 
